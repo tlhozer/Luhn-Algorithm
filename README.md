@@ -1,2 +1,2 @@
-# Luhn-Algoritmas-
+# Luhn-Algoritmasi
 Kredi Kartı Doğrulama 
